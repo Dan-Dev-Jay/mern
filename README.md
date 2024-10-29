@@ -1,68 +1,88 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App Built on top of this Starter project [IDURAR ERP/CRM](https://github.com/idurar/erp-crm)
+IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+GitHub Repository : [https://github.com/idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
+<br/>
 
-## Available Scripts
+**⭐️ Demo Open Source Version** : [https://opensource.idurarapp.com](https://opensource.idurarapp.com)
+<br/>
+**🚀 Cloud Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
+<br/>
+#
+[![
+IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ja242ld9m9z1c6ia7lu5.png)](https://github.com/idurar/idurar-erp-crm)
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# Starter Mern Antd Admin App , MERN Admin dashboard ,Antd Admin Template free
 
-### `yarn test`
+```
+Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Our Sponsors
 
-### `yarn build`
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=4ead8370b905&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![starter-antd-admin-crud-auth-mern-crud-auth](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opp4yj177dizyaosah0o.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Live App Demo** : [https://www.idurarapp.com](https://www.idurarapp.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Setup backend
 
-## Learn More
+1) just create MongoDB Atlas accout database url 
+2) change this file name .variables.env.tmp to  .variables.env
+3) open  .variables.env and paste your MongoDB url here :  DATABASE=your-mongodb-url
+4) npm install
+5) npm setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Setup frontend
+1) cd frontend 
+2) npm install
+3) change api config to loaclhost in this : src/frontend/src/config/serverApiConfig.js
+ 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## start server
+1) npm start
 
-### Code Splitting
+## start react app
+1) cd frontend
+2) npm start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```
 
-### Analyzing the Bundle Size
+## App Features :
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Backend :
 
-### Making a Progressive Web App
+* The backend is built with node.js , [express.js Framework](https://expressjs.com/) ,and MongoDb Database
+* Generic Crud Api (Create / Read / Update / Delete)
+* Admin (User) Management Api
+* Auth by Jwt json web token
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Frontend :
 
-### Advanced Configuration
+* The Frontend is built with React.js , [Ant Design (Antd)](https://ant.design/), and Redux , Redux-thunk.
+* Generic Crud Component (Module) (Create / Read / Update / Delete)
+* Admin (User) Management Module
+* Auth Component Login / Logout
+* Private Route and Public Route
+* Not Found Page
+* Beautiful UI Dashboard
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+#
+```
 
-### Deployment
+<br/>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+**⭐️ Demo Open Source Version** : [https://opensource.idurarapp.com](https://opensource.idurarapp.com)
+<br/>
+**🚀 Cloud Entreprise Version** : [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
+<br/>
